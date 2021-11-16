@@ -1,0 +1,20 @@
+.card-image{
+    width: 350px;
+    height: 250px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.card{
+    width: 400px;
+    height: 670px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    
+}
+
+.card:hover{
+    box-shadow: 20px 20px 20px 20px lightgray;
+    border: 1px solid lightgrey;
+}

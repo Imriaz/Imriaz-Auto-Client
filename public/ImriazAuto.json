@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Kawasaki Ninja H2",
+        "description": "For 2020, the Kawasaki Ninja H2 has been upgraded to support smartphone connectivity and the new Rideology app. The app allows riders to access vital information about the bike using their smartphone and even tweak them if need be. It's expected to be launched in India next year.",
+        "price": 150000,
+        "img": "https://i.ibb.co/YdXbcCm/Kawasaki-Ninja-H2.jpg"
+    },
+    {
+        "Name": "Yamaha YZF R15 V3",
+        "description": "Yamaha has filed approval documents for a new bike, called the R15S. To jog your memories, Yamaha had introduced the R15S in the BS4 era, targeted at those who wanted a sporty bike but couldn’t afford the R15 V2. We believe this will be Yamaha's approach yet again. ",
+        "price": 12000,
+        "img": "https://i.ibb.co/xLFzy2s/Yamaha-YZF-R15-V3.jpg"
+    },
+    {
+        "Name": "TVS Apache RR 310",
+        "description": "The first batch of the 2021 TVS Apache RR 310 ‘Built To Order’ platform has been completely booked for September. Slots for the next lot of 50 BTO units commence on October 1. TVS launched the 2021 Apache RR 310 at Rs 2.59 lakh (ex-showroom).",
+        "price": 100000,
+        "img": "https://i.ibb.co/WBpXckB/TVS-Apache-RR-310.webp"
+    },
+    {
+        "Name": "TVS Jupiter",
+        "description": "Tvs has once agin hiked the prices of its scooter. of the entire range of scooters, the Jupiter has witnessed the biggest surge in pricing, going up by up to Rs 2,336. The Jupiter is not only the most important scooter for TVS, but also its most popular model on sale. Its success can be attributed to the features, frugal motor, and competitive pricing.",
+        "price": 90000,
+        "img": "https://i.ibb.co/ccy7N2d/TVS-Jupiter.webp"
+    },
+    {
+        "Name": "Suzuki Hayabusa",
+        "description": "Couldn’t get your hands on the 2021 Hayabusa the first time? Fret not. Suzuki India will open the bookings for the second batch once again on July 1, 2021. Customers can book the bike from the comfort of their homes through Suzuki’s website. Check out all other crucial details in our story. Suzuki had received a fantastic response for the 2021 Hayabusa. The first lot of bikes were been sold out in almost 24 hours of the official launch.",
+        "price": 14900,
+        "img": "https://i.ibb.co/XtH44ys/Suzuki-Hayabusa.webp"
+    },
+    {
+        "Name": "BMW F 900 R",
+        "description": "BMW has unveiled the 2022 F 900 R with new colour options that are expected to make their way here by the end of 2021. For full details, check out our story. BMW has launched the F 900 R and F 900 XR in India. The bikes will come to India via the CBU route but have been priced very competitively. Know prices and more details here.",
+        "price": 200000,
+        "img": "https://i.ibb.co/HFzWkGh/BMW-F-900-R.webp"
+    },
+    {
+        "Name": "Kawasaki Concours®14 ABS",
+        "description": "The Kawasaki Concours®14 ABS motorcycle gets the soul of a Ninja® ZX™-14R sportbike and adds superior performance, advanced technology and premium features for the ultimate sport touring experience. And to top it off, the Concours14 ABS comes with the confidence of a 36-month limited warranty.",
+        "price": 250000,
+        "img": "https://i.ibb.co/BzdwKnf/Concours-14-ABS.jpg"
+    },
+    {
+        "Name": "Kawasaki KX™450SR",
+        "description": "Featuring special tuning and elite-level racing components, the all-new limited edition 2022 KX™450SR motorcycle is built to win right out of the box. This bike is designed to further elevate the performance, durability and styling of the already championship-proven KX™450 platform by partnering up with the most respected names in the sport. With only limited quantities available, now is your chance to cross the finish line first with this one-of-a-kind race machine.",
+        "price": 22000,
+        "img": "https://i.ibb.co/BCP0xch/KX-450SR.jpg"
+    },
+    {
+        "Name": "Kawasaki Z650RS",
+        "description": "A true middleweight naked sportbike for a broad range of riders, the all-new 2022 Z650RS tempts the eye with the timeless beauty of a retro sport. Distinguishing the Z650RS from the larger displacement Z900RS is a slimmer tank and a shorter, more compact tail—all contributing to light handling and an approachable nature. Experience modern responsive power and retro styling that's perfect for everyday riding on the Z650RS.",
+        "price": 140000,
+        "img": "https://i.ibb.co/nBk2sr4/Z900RS.jpg"
+    },
+    {
+        "Name": "Kawasaki Z900",
+        "description": "The Z900 epitomizes Kawasaki's belief of what the ideal supernaked should be. At 948cc with an ultra-lightweight chassis, every ride is met with exceptional power, responsiveness and excitement. Make your presence known on the streets with signature Sugomi™-inspired styling and a commanding ride position.",
+        "price": 90000,
+        "img": "https://i.ibb.co/h1KwZkm/Z900.jpg"
+    },
+    {
+        "Name": "Kawasaki Z650RS",
+        "description": "Reigniting the classic style of the original Z1 900 super naked, the Kawasaki Z900RS family calls upon timeless design elements with minimal bodywork for a pure retro-style look. The Z900RS family combines traditional Z1 styling with modern elements such as Kawasaki's latest electronic rider support technology, suspension, LED lighting and digital instrumentation for a pure retro yet modern ride. ",
+        "price": 34900,
+        "img": "https://i.ibb.co/k8WSXkX/Z650RS.jpg"
+    },
+    {
+        "Name": "Kawasaki Ninja-ZX-10-R",
+        "description": "The Ninja® ZX™-10R supersport bike is built for those who rise to the challenge. Hailing from the proving grounds of the FIM WorldSBK Championship, the Ninja ZX-10R motorcycle is the direct result of decades of world-class road racing innovation, carrying Kawasaki Racing Team (KRT) rider Jonathan Rea to six consecutive championship titles. Our experience on the track has led to a potent 998cc four-cylinder engine, a race-optimized chassis and an innovative electronics package. Push your limits aboard the Ninja ZX-10R.",
+        "price": 200000,
+        "img": "https://i.ibb.co/8DQVYX1/Ninja-ZX-10-R.jpg"
+    }
+]

@@ -1,0 +1,42 @@
+.blogs-section{
+    width: 100%;
+    padding: 50px 5vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 80px;
+}
+
+.blog-text{
+    padding-top:40px ;
+}
+
+.blog-image{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.blog-overview{
+    margin: 10px 0 20px;
+    line-height: 30px;
+}
+
+.btn.dark{
+    background: #1b1b1b;
+    color: #fff;
+}
+
+@media only screen and (max-width: 688px) {
+    .blogs-section{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+    .blogs-section{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}

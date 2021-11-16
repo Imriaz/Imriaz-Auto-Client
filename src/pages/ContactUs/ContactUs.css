@@ -1,0 +1,8 @@
+/* Avoide Margin class for all component */
+.avoid-margin{
+    margin-top: 100px;
+}
+
+.company-title{
+    color: orange;
+}
